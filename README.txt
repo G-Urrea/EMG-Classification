@@ -1,4 +1,4 @@
-El código relevante se encuentra en los archivos Train_IC y Testing_IC. Los archivos .ipynb están diseñados para correr el código por el orden de celdas.
+El código relevante se encuentra en los archivos Testing_IC (Preprocesamiento y análisis de los datos) y Train_IC (Entrenamiento de clasificadores). Los archivos .ipynb están diseñados para correr el código por el orden de celdas.
 Para ejecutar los .ipynb es importante que se tenga la siguiente estructura de carpetas:
 root/
 |- *.ipynb (* -> Train_IC O Testing_IC)
